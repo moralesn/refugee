@@ -14,7 +14,7 @@ Steps:
 
 1. Click on document
 
-2. Click on pencil in the toolbar to the right corner of the editor
+2. Click on pencil icon located in the toolbar to the right corner of the editor
 
 3. Click commit changes
 
