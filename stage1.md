@@ -1,4 +1,4 @@
-# Project Name: Refugee Project Documentation
+# Project name: Refugee Project Documentation
 ## About this project
 Team Members: Paula, Fritz, Karen, Gary, Cathy, Worku, Marieke, and Norberto 
 
@@ -17,13 +17,15 @@ Assess the quality of the data in order to understand whether the dataset can be
 
 Overview:
 
-*
+* 
   
 *
 
 *
 
 Methods:
+
+Findings:
 
 Software (version)
 
