@@ -1,8 +1,13 @@
 # Project Name: Refugee Project Documentation
-## Team Members: Paula, Fritz, Karen, Gary, Cathy, Worku, Marieke, and Norberto 
-## Programmers: Worku, Marieke, and Norberto
-## Created on: 9/30/2015
-## Last modified on: 
+## About this project
+Team Members: Paula, Fritz, Karen, Gary, Cathy, Worku, Marieke, and Norberto 
+
+Programmers: Worku, Marieke, and Norberto
+
+Created on: 9/30/2015
+
+Last modified on: 
+
 9/30/2015 by Norberto
 
 /   /  by 
