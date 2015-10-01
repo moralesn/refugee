@@ -10,11 +10,19 @@ stage 1.md- data validation and reliability assesment (stage 1) documentation
 
 ## Guide to editing documentation
 
-'##' main header
+Steps:
 
 1. Click on document
 2. Click on pencil in the toolbar to the right corner of the editor
 3. Click commit changes
+
+Formatting:
+
+'##' main header
+'#' secondary header
+* bullet point/unordered list
+1,2,3... ordered list
+
 
 Notes:
 
