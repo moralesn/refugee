@@ -1,5 +1,5 @@
-# Project name: Refugee Project Documentation
-## About this project
+# Project name: Refugee Project
+## About this document
 Team Members: Paula, Fritz, Karen, Gary, Cathy, Worku, Marieke, and Norberto 
 
 Programmers: Worku, Marieke, and Norberto
