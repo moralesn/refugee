@@ -6,7 +6,7 @@ This repository holds all documentation and code for the data validation and ana
 
 ## Documentation
 
-stage 1.md- stage 1 documentation 
+stage 1.md- data validation and reliability assesment (stage 1) documentation 
 
 ## Editing documentation
 
